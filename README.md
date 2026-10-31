@@ -1,3 +1,11 @@
+# Guide : Zaheda naguru
+Team members
+Mohd Mohtasham Ali (160923748066)
+Sujaan Sami (16093748101)
+Ameen Khan (16093748074)
+Abdul raheem (16093748062)
+
+
 # TravelGenie - Multi-Agent Travel Planner
 
 Stack: **Groq** (Llama 3.3 70B + Llama 3.1 8B) · **LangGraph + LangChain** · **FastAPI** (SSE streaming) · **React + Vite**
